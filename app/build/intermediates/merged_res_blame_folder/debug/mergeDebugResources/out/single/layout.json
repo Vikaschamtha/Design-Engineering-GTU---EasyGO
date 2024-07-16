@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\fragment_explore.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\fragment_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\activity_forgetpassword.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_forgetpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\chat_item.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\chat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\activity_about_us.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\item_task.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\activity_help.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\activity_demo.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\activity_add_task.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\fragment_easychat.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\fragment_easychat.xml"
+    },
+    {
+        "merged": "com.example.easygo.app-mergeDebugResources-44:/layout/fragment_home.xml",
+        "source": "com.example.easygo.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-mergeDebugResources-44:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\fragment_home.xml"
+    }
+]

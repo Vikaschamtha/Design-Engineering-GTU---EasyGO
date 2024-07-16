@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_about_orange.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\about_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_activity_forgetpassword.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_forgetpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_profile_org.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\profile_org.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ic_baseline_checklist_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ic_baseline_checklist_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ic_baseline_refresh_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ic_baseline_refresh_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-xxxhdpi_ic_new.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-xxxhdpi\\ic_new.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-xhdpi_ic_new.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-xhdpi\\ic_new.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable-mdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable-mdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_fragment_explore.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\fragment_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_activity_demo.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_activity_add_task.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-anydpi-v26_ic_new.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-anydpi-v26\\ic_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-anydpi-v26_ic_new_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-anydpi-v26\\ic_new_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_baseline_menu.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\baseline_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_gift_city.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\gift_city.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-xhdpi_ic_new_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-xhdpi\\ic_new_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-hdpi_ic_new_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-hdpi\\ic_new_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-mdpi_ic_new_foreground.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-mdpi\\ic_new_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ic_baseline_check_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ic_baseline_check_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-xxxhdpi_ic_new_foreground.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-xxxhdpi\\ic_new_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.easygo.app-debug-45:/layout_fragment_home.xml.flat",
+        "source": "com.example.easygo.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_baseline_profile_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\baseline_profile_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_roundedbg_edittext.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\roundedbg_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_google.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-xhdpi_ic_new_foreground.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-xhdpi\\ic_new_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_mahatma_mandir.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\mahatma_mandir.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_home_outline.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\home_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_setting_orange.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\setting_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_message_send.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\message_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_easy_go_logo_white.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\easy_go_logo_white.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_task_schedular_img.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\task_schedular_img.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ic_baseline_add_task_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ic_baseline_add_task_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_twitter.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_user_profile_org60.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\user_profile_org60.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_twitterx_new.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\twitterx_new.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable-xxhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ic_baseline_cancel_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ic_baseline_cancel_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_rounded_bg.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-mdpi_ic_new.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-mdpi\\ic_new.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_axardham.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\axardham.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_profile_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\profile_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-hdpi_ic_new_foreground.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-hdpi\\ic_new_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_user.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_brolistlogo.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\brolistlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_chat_item.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\chat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_activity_help.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ic_baseline_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ic_baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_about_us_photo.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\about_us_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_fragment_easychat.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\fragment_easychat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-xxhdpi_ic_new_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-xxhdpi\\ic_new_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-mdpi_ic_new_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-mdpi\\ic_new_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ic_baseline_link_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ic_baseline_link_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_chatbot_outline.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\chatbot_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-xxhdpi_ic_new_foreground.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-xxhdpi\\ic_new_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_baseline_home.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\baseline_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable-xhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ai_chatbot.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ai_chatbot.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-xxxhdpi_ic_new_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-xxxhdpi\\ic_new_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_baseline_travel_explore.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\baseline_travel_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_indroda_park.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\indroda_park.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable-xxxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_help_orange.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\help_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_easygologotrans.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\easygologotrans.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_twitterx.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\twitterx.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_helpdesk.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\helpdesk.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-hdpi_ic_new.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-hdpi\\ic_new.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_angle_right.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\angle_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable-hdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable-hdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\menu_taskmenu.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\menu\\taskmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\drawable_baseline_chat.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\drawable\\baseline_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-debug-45:\\mipmap-xxhdpi_ic_new.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.easygo.app-main-47:\\mipmap-xxhdpi\\ic_new.webp"
+    }
+]

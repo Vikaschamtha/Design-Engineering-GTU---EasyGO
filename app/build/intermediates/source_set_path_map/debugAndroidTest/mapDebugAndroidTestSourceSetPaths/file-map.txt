@@ -1,0 +1,6 @@
+com.example.easygo.test.app-annotation-experimental-1.4.0-0 C:\Users\HP\.gradle\caches\transforms-4\17450aa3e670ccc404e963c855057503\transformed\annotation-experimental-1.4.0\res
+com.example.easygo.test.app-core-1.5.0-1 C:\Users\HP\.gradle\caches\transforms-4\f0a21f1f4337fb9ed2a3ff1afe11d55a\transformed\core-1.5.0\res
+com.example.easygo.test.app-androidTest-2 C:\Users\HP\AndroidStudioProject\EasyGo\app\build\generated\res\resValues\androidTest\debug
+com.example.easygo.test.app-mergeDebugAndroidTestResources-3 C:\Users\HP\AndroidStudioProject\EasyGo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.easygo.test.app-mergeDebugAndroidTestResources-4 C:\Users\HP\AndroidStudioProject\EasyGo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.easygo.test.app-debugAndroidTest-5 C:\Users\HP\AndroidStudioProject\EasyGo\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_new_background">#C2A4E3</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="editTextTaskDate" type="id"/>
+    <item name="editTextTaskDescription" type="id"/>
+    <item name="editTextTaskName" type="id"/>
+    <item name="editTextTaskTime" type="id"/>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="add">Add</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_task_list">Add Task</string>
+    <string name="all_rights_reserved_easygo">All rights reserved @EasyGO</string>
+    <string name="app_name">Easy Go</string>
+    <string name="axardham_mahatma_mandir_gift_city">Axardham,Mahatma Mandir, Gift city,...</string>
+    <string name="easychat">Easychat</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="enterpass">    Enter password here</string>
+    <string name="enteruser">    Enter email here</string>
+    <string name="explore">Explore</string>
+    <string name="explore_place">-> Explore:</string>
+    <string name="facebook">facebook</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="gandhinagar">Gift city, Gandhinagar</string>
+    <string name="gcm_defaultSenderId" translatable="false">537851016388</string>
+    <string name="google">google</string>
+    <string name="google_api_key" translatable="false">AIzaSyBmLsb2tiAHmBf7gvJYf7QqqM0xtBaYfYE</string>
+    <string name="google_app_id" translatable="false">1:537851016388:android:b4657e776c3609b1cdc591</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBmLsb2tiAHmBf7gvJYf7QqqM0xtBaYfYE</string>
+    <string name="google_storage_bucket" translatable="false">easygo-login-register-firebase.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="login">Login</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="password">Password :</string>
+    <string name="places_near_you">Places near you</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">easygo-login-register-firebase</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="search">Search</string>
+    <string name="search_here">Search here</string>
+    <string name="setting">Setting</string>
+    <string name="signup">Create an account Sign Up</string>
+    <string name="signupor">------------------or Sign Up With------------------</string>
+    <string name="suggest_best_places_in_gandhinagar">Suggest best places in Gandhinagar.</string>
+    <string name="task_date">Task Date</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_time">Task Time</string>
+    <string name="tell_me_about_gift_city">Tell me About Gift City!!!</string>
+    <string name="the_gift_city_is_internatinal_finance_tech_city_of_india">The Gift city is Internatinal Finance Tech city Of India...</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="todo">TODO</string>
+    <string name="twitter">twitter</string>
+    <string name="user">Username</string>
+    <string name="username">Username :</string>
+    <string name="welcome">"Welcome !"</string>
+    <style name="Base.Theme.EasyGo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.EasyGo" parent="Base.Theme.EasyGo"/>
+</resources>

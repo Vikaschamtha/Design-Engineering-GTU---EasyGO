@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537851016388",
+    "project_id": "easygo-login-register-firebase",
+    "storage_bucket": "easygo-login-register-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537851016388:android:b4657e776c3609b1cdc591",
+        "android_client_info": {
+          "package_name": "com.example.easygo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmLsb2tiAHmBf7gvJYf7QqqM0xtBaYfYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

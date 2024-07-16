@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextTaskName" type="id"/>
+    <item name="editTextTaskDescription" type="id"/>
+    <item name="editTextTaskDate" type="id"/>
+    <item name="editTextTaskTime" type="id"/>
+</resources>
